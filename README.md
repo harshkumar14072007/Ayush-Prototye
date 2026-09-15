@@ -1,2 +1,2 @@
 # Ayush-Prototye
-Healthcare protype
+Healthcare prototype
